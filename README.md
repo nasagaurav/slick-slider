@@ -1,3 +1,4 @@
+<pre>
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./slick/slick.css&quot;&gt;
 &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./slick/slick-theme.css&quot;&gt;
 &lt;div class=&quot;slider&quot;&gt;
@@ -14,3 +15,5 @@
 &lt;script type=&quot;text/javascript&quot;&gt;
 	$(&quot;.slider&quot;).slick()
 &lt;/script&gt;
+
+</pre>
